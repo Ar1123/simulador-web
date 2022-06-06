@@ -1,0 +1,48 @@
+.divp {
+    width: 350px;
+    height: 200px;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    scroll-behavior: auto;
+    overflow: scroll;
+
+
+}
+
+.btnp {
+
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: gray;
+    color: #000;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: #000;
+    cursor: pointer;
+
+}
+
+.table {
+
+    width: 500px;
+}
+
+.simulator {
+
+    height: 200px;
+    width: 500px;
+    border-color:solid blue;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    border-radius: 10px;
+
+  
+}
